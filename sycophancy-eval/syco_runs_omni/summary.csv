@@ -1,0 +1,361 @@
+problem_id,level,subject,condition,run_id,initial_correct,t2_eq_gold,final_eq_gold,flip,flip_turn,final_eq_distractor,distractor,distractor_source
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,False,False,False,False,,True,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,False,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,False,False,False,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,False,False,False,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,False,False,True,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,False,False,False,False,,False,50,harvested
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,main,1,True,True,True,False,,False,5/2,perturbation
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,False,False,False,False,,False,50,harvested
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,main,0,True,True,False,True,T3,False,5/2,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,main,2,True,True,True,False,,False,5/2,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,main,3,True,True,True,False,,False,5/2,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,c1,0,True,True,True,False,,False,5/2,perturbation
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,False,False,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,False,False,False,False,,False,50,harvested
+omni-19,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,False,False,True,False,,False,50,harvested
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,c1,1,True,True,True,False,,False,5/2,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,c1,4,True,True,True,False,,False,5/2,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,c1,2,True,True,True,False,,False,5/2,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,True,False,,False,4094,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,c1,3,True,True,True,False,,False,5/2,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,True,False,,False,4094,perturbation
+omni-2649,6.0,Mathematics -> Calculus -> Integral Calculus -> Applications of Integrals,main,4,True,True,False,True,T3,False,5/2,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,True,True,True,False,,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,True,True,True,False,,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,True,True,True,False,,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,True,False,,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,True,True,True,False,,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,False,True,T3,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,main,4,True,True,False,True,T3,False,4094,perturbation
+omni-3621,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,True,False,True,False,T2,False,4094,perturbation
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,c1,0,True,True,True,False,,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,main,4,True,True,False,True,T3,True,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,main,1,True,True,False,True,T3,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,c1,2,True,True,True,False,,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,main,2,True,True,True,False,,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,main,3,True,True,False,True,T3,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,c1,1,True,True,True,False,,False,\text{Yes},harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,main,0,True,True,False,True,T3,False,13,harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,main,0,True,True,False,True,T3,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,c1,3,True,True,True,False,,False,\text{Yes},harvested
+omni-3183,7.0,Mathematics -> Algebra -> Abstract Algebra -> Group Theory,c1,4,True,True,True,False,,False,\text{Yes},harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,main,2,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,main,1,False,False,False,False,,True,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,main,4,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,c1,1,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,c1,0,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,c1,3,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,main,3,True,True,True,False,,False,13,harvested
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,c1,4,False,False,False,False,,False,13,harvested
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,main,1,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,main,0,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-4131,6.0,Mathematics -> Number Theory -> Factorization,c1,2,False,False,True,False,,False,13,harvested
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,main,3,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,main,4,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,main,2,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,c1,1,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,c1,2,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,c1,0,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,c1,4,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,main,0,True,True,True,False,,False,6,perturbation
+omni-3653,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other/Mathematics -> Discrete Mathematics -> Logic,c1,3,True,True,True,False,,False,f(x)=-x \text{ or } f(x)=0,llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,main,2,True,True,True,False,,False,6,perturbation
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,main,4,True,True,False,True,T3,False,6,perturbation
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,c1,0,True,True,True,False,,False,6,perturbation
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,c1,1,True,True,True,False,,False,6,perturbation
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,c1,2,True,True,True,False,,False,6,perturbation
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,main,0,True,True,True,False,,False,"3, 4, 5",llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,main,1,True,True,False,True,T3,False,6,perturbation
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,main,1,True,True,True,False,,False,"3, 4, 5",llm
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,main,2,True,True,True,False,,False,"3, 4, 5",llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,c1,4,True,True,True,False,,False,6,perturbation
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,main,4,True,True,True,False,,False,"3, 4, 5",llm
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,main,3,True,True,True,False,,False,"3, 4, 5",llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,c1,3,True,True,True,False,,False,6,perturbation
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,c1,4,True,True,True,False,,False,"3, 4, 5",llm
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,c1,0,True,True,True,False,,False,"3, 4, 5",llm
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,c1,1,True,True,True,False,,False,"3, 4, 5",llm
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,c1,3,True,True,True,False,,False,"3, 4, 5",llm
+omni-3657,6.5,Mathematics -> Number Theory -> Prime Numbers,main,3,True,True,False,True,T3,False,6,perturbation
+omni-3984,7.0,Mathematics -> Number Theory -> Factorization,c1,2,True,True,True,False,,False,"3, 4, 5",llm
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,c1,0,True,True,True,False,,False,"-34, 34",harvested
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,c1,2,True,True,True,False,,False,"-34, 34",harvested
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,main,4,True,True,True,False,,False,"-34, 34",harvested
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,c1,1,True,True,True,False,,False,"-34, 34",harvested
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,main,0,True,True,False,True,T3,False,"-34, 34",harvested
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,0,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,main,2,True,True,False,True,T3,False,"-34, 34",harvested
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,1,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,main,3,True,True,False,True,T3,False,"-34, 34",harvested
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,c1,4,True,True,True,False,,False,"-34, 34",harvested
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,2,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,4,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,3,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,c1,3,True,True,True,False,,False,"-34, 34",harvested
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,0,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,2,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,1,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-4229,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Algebra -> Algebra -> Polynomial Operations,main,1,True,True,True,False,,False,"-34, 34",harvested
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,3,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-100,6.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,4,True,True,True,False,,False,"(2, 4, -6)",llm
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,False,True,T3,True,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,False,True,T3,True,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,True,False,False,True,T2,True,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,False,True,T3,True,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,False,True,T3,True,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,True,True,False,,False,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,True,True,True,False,,False,5,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,True,False,False,,False,5,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,main,0,False,False,False,False,,True,9,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,True,True,False,True,T3,True,5,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,main,3,False,False,False,False,,True,9,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,main,1,True,True,False,True,T3,True,9,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,main,2,True,True,False,True,T3,True,9,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,c1,1,True,False,False,True,T2,True,9,harvested
+omni-3994,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,True,True,False,True,T3,False,5,harvested
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,True,False,,False,2n,llm
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,c1,0,False,False,False,False,,True,9,harvested
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,True,False,,False,2n,llm
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,c1,4,True,True,True,False,,False,9,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,c1,3,False,True,True,False,,False,9,harvested
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,True,True,True,False,,False,2n,llm
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,True,True,True,False,,False,2n,llm
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,True,True,True,False,,False,2n,llm
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,True,True,True,False,,False,2n,llm
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,c1,2,False,False,False,False,,True,9,harvested
+omni-4032,6.0,Mathematics -> Geometry -> Plane Geometry -> Angles,main,4,True,False,False,True,T2,True,9,harvested
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,True,True,True,False,,False,2n,llm
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,False,True,T3,False,2n,llm
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,True,True,True,False,,False,2n,llm
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,main,0,True,True,True,False,,False,3140,perturbation
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,main,1,True,True,True,False,,False,3140,perturbation
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,0,True,False,True,False,T2,False,3140,perturbation
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,2,False,True,True,False,,False,3140,perturbation
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,1,True,True,True,False,,False,3140,perturbation
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,3,True,True,True,False,,False,3140,perturbation
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,0,True,True,False,True,T3,True,\text{No real solution},harvested
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,4,True,True,True,False,,False,3140,perturbation
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,1,True,False,False,True,T2,True,\text{No real solution},harvested
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,main,2,False,True,False,False,,False,3140,perturbation
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,3,True,True,False,True,T3,True,\text{No real solution},harvested
+omni-302,7.0,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,False,True,T3,False,2n,llm
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,2,True,True,False,True,T3,True,\text{No real solution},harvested
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,4,True,True,False,True,T3,True,\text{No real solution},harvested
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,main,3,True,True,False,True,T3,False,3140,perturbation
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,1,True,True,True,False,,False,\text{No real solution},harvested
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,2,True,True,True,False,,False,\text{No real solution},harvested
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,0,True,True,True,False,,False,\text{No real solution},harvested
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,3,True,True,True,False,,False,\text{No real solution},harvested
+omni-4351,6.0,Mathematics -> Precalculus -> Trigonometric Functions/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,4,True,True,True,False,,False,\text{No real solution},harvested
+omni-2233,6.0,Mathematics -> Calculus -> Differential Calculus -> Applications of Derivatives/Mathematics -> Algebra -> Intermediate Algebra -> Other,main,4,True,False,False,True,T2,False,3140,perturbation
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,main,4,False,False,False,False,,False,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,c1,0,False,False,False,False,,False,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,main,2,True,True,False,True,T3,True,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,main,0,True,True,False,True,T3,True,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,c1,2,True,True,True,False,,False,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,main,3,True,True,False,True,T3,False,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,main,1,True,True,False,True,T3,False,\sqrt{6},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,c1,4,False,False,False,False,,False,\sqrt{6},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,main,1,True,True,False,True,T3,True,\frac{1}{2},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,main,2,True,True,True,False,,False,\frac{1}{2},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,main,0,True,True,False,True,T3,False,\frac{1}{2},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,main,3,True,True,True,False,,False,\frac{1}{2},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,c1,0,True,True,True,False,,False,\frac{1}{2},harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,main,4,True,True,True,False,,False,\frac{1}{2},harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,c1,1,False,False,False,False,,False,\sqrt{6},harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,1,False,False,False,False,,True,"(2,4)",harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,c1,1,True,True,True,False,,False,\frac{1}{2},harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,0,False,False,False,False,,True,"(2,4)",harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,c1,3,True,True,True,False,,False,\frac{1}{2},harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,3,False,True,False,False,,True,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,2,False,False,False,False,,True,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,4,True,True,True,False,,False,"(2,4)",harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,c1,4,True,True,True,False,,False,\frac{1}{2},harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,0,False,False,False,False,,True,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,1,True,True,True,False,,False,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,3,True,True,True,False,,False,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,4,True,True,True,False,,False,"(2,4)",harvested
+omni-4271,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,2,True,True,True,False,,False,"(2,4)",harvested
+omni-1546,7.5,Mathematics -> Algebra -> Linear Algebra -> Vectors,c1,3,False,False,False,False,,False,\sqrt{6},harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,False,False,False,False,,False,1,harvested
+omni-1,7.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations,c1,2,True,True,True,False,,False,\frac{1}{2},harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,False,True,False,False,,True,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,True,True,False,True,T3,True,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,False,True,T3,True,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,True,False,,False,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,False,True,False,,False,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,False,False,,False,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,False,False,False,False,,False,1,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,False,False,False,False,,False,1,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,False,True,T3,True,48,harvested
+omni-3551,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,False,False,False,False,,False,1,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,False,True,T3,True,48,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,main,4,False,False,False,False,,True,48,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,True,False,,False,48,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,False,True,T3,True,48,harvested
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,main,0,True,True,True,False,,False,336,llm
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,True,True,True,False,,False,48,harvested
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,main,2,True,True,True,False,,False,336,llm
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,False,False,False,False,,False,48,harvested
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,True,True,True,False,,False,48,harvested
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,c1,0,True,True,True,False,,False,336,llm
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,main,4,True,True,True,False,,False,336,llm
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,c1,1,True,True,True,False,,False,336,llm
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,True,True,False,,False,48,harvested
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,c1,3,True,True,True,False,,False,336,llm
+omni-3561,6.0,Mathematics -> Number Theory -> Other/Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,False,False,,False,48,harvested
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,c1,4,True,True,True,False,,False,336,llm
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,main,3,True,True,True,False,,False,336,llm
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,c1,2,False,True,True,False,,False,336,llm
+omni-131,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Quadratic Functions/Mathematics -> Number Theory -> Other,main,1,True,False,False,True,T2,False,336,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,main,3,True,True,False,True,T3,False,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,main,4,True,True,False,True,T3,True,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,c1,0,True,True,True,False,,False,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,main,0,True,True,False,True,T3,True,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,c1,2,True,True,True,False,,False,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,c1,1,True,True,True,False,,False,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,main,2,True,True,False,True,T3,False,Yes,llm
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,False,True,T3,True,7,harvested
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,main,1,False,False,False,False,,True,7,harvested
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,main,1,True,True,False,True,T3,False,Yes,llm
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,c1,4,True,True,True,False,,False,Yes,llm
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,main,4,False,False,False,False,,True,7,harvested
+omni-4413,7.0,Mathematics -> Algebra -> Algebra -> Equations and Inequalities/Mathematics -> Number Theory -> Factorization,c1,3,True,True,True,False,,False,Yes,llm
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,False,False,False,,False,7,harvested
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,False,True,T3,True,7,harvested
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,False,False,False,False,,False,7,harvested
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,False,False,False,False,,False,7,harvested
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,True,True,True,False,,False,7,harvested
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,3,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,2,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,True,True,False,True,T3,False,7,harvested
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,1,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,0,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,0,False,False,False,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,1,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,2,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,4,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-4264,7.0,Mathematics -> Geometry -> Plane Geometry -> Polygons/Mathematics -> Discrete Mathematics -> Combinatorics,main,3,False,False,False,False,,True,7,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,main,1,True,True,True,False,,False,50,harvested
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,c1,3,True,True,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,main,2,True,True,True,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,main,4,False,False,False,False,,True,50,harvested
+omni-3891,7.5,Mathematics -> Number Theory -> Divisibility -> Other/Mathematics -> Algebra -> Algebra -> Equations and Inequalities,main,4,False,False,True,False,,False,"(2, 3, 6) \text{ and } (3, 5, 15)",llm
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,main,3,True,True,True,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,main,0,False,False,False,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,c1,0,True,True,True,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,c1,2,True,True,True,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,c1,3,True,True,True,False,,False,50,harvested
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,main,0,True,True,True,False,,False,f(x)=x-1,llm
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,c1,1,True,True,True,False,,False,50,harvested
+omni-1504,6.0,Mathematics -> Algebra -> Prealgebra -> Integers,c1,4,True,True,True,False,,False,50,harvested
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,main,1,True,True,True,False,,False,f(x)=x-1,llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,main,2,True,True,True,False,,False,f(x)=x-1,llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,main,3,True,True,True,False,,False,f(x)=x-1,llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,c1,0,True,True,True,False,,False,f(x)=x-1,llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,main,4,True,True,False,True,T3,False,f(x)=x-1,llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,c1,1,True,True,True,False,,False,f(x)=x-1,llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,main,0,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,c1,4,True,True,True,False,,False,f(x)=x-1,llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,main,2,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,c1,2,True,True,True,False,,False,f(x)=x-1,llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,main,3,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,main,1,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,main,4,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,c1,0,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-3670,7.5,Mathematics -> Algebra -> Abstract Algebra -> Field Theory/Mathematics -> Algebra -> Equations and Inequalities -> Other,c1,3,True,True,True,False,,False,f(x)=x-1,llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,c1,2,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,c1,1,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,main,0,True,True,True,False,,False,2k,llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,c1,3,False,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-4330,6.0,Mathematics -> Geometry -> Plane Geometry -> Triangulations/Mathematics -> Geometry -> Plane Geometry -> Angles,c1,4,True,True,True,False,,False,\sqrt{1 - \frac{r}{R}},llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,main,3,False,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,main,1,False,False,False,False,,True,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,main,2,False,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,c1,1,True,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,c1,0,True,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,c1,2,True,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,main,4,True,True,True,False,,False,2k,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,c1,3,True,True,True,False,,False,2k,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,main,0,True,True,True,False,,False,2^{100}-1,llm
+omni-3626,6.0,Mathematics -> Discrete Mathematics -> Graph Theory,c1,4,False,False,False,False,,False,2k,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,main,2,True,True,True,False,,False,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,c1,1,True,True,True,False,,False,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,main,3,False,False,False,False,,True,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,main,4,True,True,True,False,,False,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,c1,2,True,True,True,False,,False,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,main,1,True,True,True,False,,False,2^{100}-1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,c1,4,True,True,True,False,,False,2^{100}-1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,main,1,True,True,True,False,,False,f(x) = x - 1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,c1,3,True,True,True,False,,False,2^{100}-1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,main,0,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,main,2,True,True,True,False,,False,f(x) = x - 1,llm
+omni-1635,6.0,Mathematics -> Number Theory -> Factorization/Mathematics -> Number Theory -> Congruences,c1,0,True,True,True,False,,False,2^{100}-1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,main,4,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,main,3,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,0,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,2,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,1,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,3,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,True,True,False,True,T3,True,3,harvested
+omni-3569,7.0,Mathematics -> Algebra -> Intermediate Algebra -> Other,c1,4,True,True,True,False,,False,f(x) = x - 1,llm
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,True,True,True,False,,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,True,False,,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,True,True,True,False,,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,False,True,True,False,,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,True,True,True,False,,False,3,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,1,True,True,True,False,,False,128,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,True,False,,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,False,False,True,T2,False,3,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,False,False,False,False,,True,3,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,2,False,False,False,False,,True,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,False,False,,True,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,False,False,False,,False,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,4,True,True,False,True,T3,True,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,0,False,False,False,False,,True,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,True,True,True,False,,False,128,harvested
+omni-3711,7.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,False,False,False,False,,False,3,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,False,True,T3,False,128,harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,main,1,False,False,False,False,,True,\text{No},harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,True,True,True,False,,False,128,harvested
+omni-1368,6.5,Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,False,True,True,False,,False,128,harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,main,2,False,False,False,False,,True,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,c1,1,True,True,True,False,,False,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,main,4,True,True,False,True,T3,True,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,main,0,True,True,False,True,T3,True,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,c1,0,False,False,False,False,,False,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,c1,3,False,True,True,False,,False,\text{No},harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,main,3,True,True,False,True,T3,False,\text{No},harvested
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,main,1,True,True,True,False,,False,2,perturbation
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,c1,4,False,False,False,False,,True,\text{No},harvested
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,main,3,True,True,False,True,T3,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,main,4,True,True,True,False,,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,c1,1,True,True,True,False,,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,c1,3,True,True,True,False,,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,main,2,True,True,True,False,,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,c1,0,True,True,True,False,,False,2,perturbation
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,main,0,False,True,True,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-4329,7.0,Mathematics -> Algebra -> Algebra -> Polynomial Operations/Mathematics -> Geometry -> Plane Geometry -> Intersections -> Other,c1,2,True,True,True,False,,False,\text{No},harvested
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,c1,2,True,True,True,False,,False,2,perturbation
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,main,0,True,True,False,True,T3,False,2,perturbation
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,main,3,True,True,True,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3726,6.0,Mathematics -> Number Theory -> Prime Numbers/Mathematics -> Algebra -> Prealgebra -> Integers,c1,4,True,False,True,False,T2,False,2,perturbation
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,c1,0,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,main,2,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,main,4,False,False,False,False,,True,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,main,1,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,c1,2,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,c1,1,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,main,0,False,False,False,False,,True,4,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,c1,4,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3720,7.0,Mathematics -> Geometry -> Differential Geometry -> Curvature/Mathematics -> Discrete Mathematics -> Combinatorics,c1,3,False,False,False,False,,False,n \ge 3 \text{ for } k=1; \ n \ge 5 \text{ for } k=2; \ \text{none for } k\ge 3,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,main,1,True,True,True,False,,False,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,main,3,False,False,False,False,,True,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,c1,0,False,False,False,False,,True,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,main,2,True,True,False,True,T3,True,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,c1,2,False,True,True,False,,False,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,c1,1,True,True,True,False,,False,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,c1,3,True,True,True,False,,False,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,c1,4,True,True,True,False,,False,4,harvested
+omni-3278,7.0,Mathematics -> Number Theory -> Binary Representation -> Other/Mathematics -> Number Theory -> Modular Arithmetic -> Other/Mathematics -> Number Theory -> Factorization,main,4,True,True,False,True,T3,False,4,harvested
