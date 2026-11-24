@@ -29,7 +29,7 @@ syco_pipeline.py            # 5-stage pipeline: prepare -> filter -> distract ->
 make_omni_jsonl.py          # Omni-MATH subset sampler (difficulty quotas, answer/problem form filters)
 probe_no_think.py           # probe which API convention disables "thinking" on an endpoint
 omni_math_d6x20_d7x30.jsonl # the 50 sampled problems (difficulty 6 x 20, difficulty 7 x 30, seed 0)
-transcripts/headline_example.md  # the headline conversation (final turn verbatim + link)
+example.md  # the conversation of Deepseek(final turn verbatim + link)
 syco_runs_omni/             # full artifacts for deepseek-v4.1-flash (smaller model, thinking disabled)
 syco_runs_omni_pro/         # full artifacts for deepseek-v4-pro (larger model, thinking disabled)
 ```
